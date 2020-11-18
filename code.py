@@ -2,7 +2,7 @@
 # Author: Dean Davis
 # Date: November 18, 2020
 #
-# Note this decode Project Cars 1 UDP Packets
+# Note this decodes Project Cars 1 UDP Packets
 # Project Cars 2 users just need to, in SYSTEM settings
 # set "UDP Protocol Version" to "Project Cars 1"
 # For help on this see: https://www.projectcarsgame.com/two/02-options-and-settings/
