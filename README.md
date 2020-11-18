@@ -27,7 +27,7 @@ Needs to be configured to run CircuitPython
 
 Copy code.py and fonts directory into the "CIRCUITPY" drive.
 But you'll also need to create a "lib" folder to hold the CircuitPython libraries you'll need  
-You'll need...  
+You'll need...
 * adafruit_bitmap_font
 * adafruit_bitmap_font
 * adafruit_display_text
@@ -37,7 +37,8 @@ You'll need...
 Last you'll need a "secrets.py" file that hold your local WiFi SSID and password.  
 <https://learn.adafruit.com/adafruit-pyportal/internet-connect#whats-a-secrets-file-15-1>
 
-That should do it, just configure Project Cars or Project Cars 2 to transmit UDP packets. Level 8 is the best setting for that.
+That should do it, just configure Project Cars or Project Cars 2 to transmit UDP packets.  
+Level 8 is the best setting for that.
 
 This project is a narrow use case but it does demonstate how to grab UDP packets from your local network, parse them and display some data.
 
